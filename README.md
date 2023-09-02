@@ -14,4 +14,13 @@ When compared to cramped city house, Grandma's house will be large and spacious.
 2. Sharing Childhood photos.
 3. Bedtime Stories.
 
+### Favourite Dishes in Vacation Spot
+
+* Briyani
+    * Chicken
+    * Mutton
+* Sweets
+    * Mysore Pak
+    * Kesari
+
 
