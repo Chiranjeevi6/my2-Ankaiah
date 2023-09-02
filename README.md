@@ -16,7 +16,7 @@ When compared to cramped city house, Grandma's house will be large and spacious.
 
 ### Favourite Dishes in Vacation Spot
 
-* Briyani
+* Biryani
     * Chicken
     * Mutton
 * Sweets
@@ -47,3 +47,13 @@ Sports helps to develop physical skills, get exercise, make friends, have fun, l
 
 > Be less curious about people and more curious about ideas.
 >> by *Marie Curie.*
+
+***
+
+### Code Fenching
+
+```
+{
+
+}
+```
