@@ -37,3 +37,13 @@ Sports helps to develop physical skills, get exercise, make friends, have fun, l
 | Basketball  | Cardiovascular Health | 4     |
 | Badminton   | Flexibility & Balance | 3     |
 | Chess       | Problem Solving       | 1     |
+
+***
+
+### Pithy Quotes
+
+> Learn from yesterday, live for today, hope for tomorrow.
+    > by *Albert Einstein.*
+
+> Be less curious about people and more curious about ideas.
+    > by *Marie Curie.*
