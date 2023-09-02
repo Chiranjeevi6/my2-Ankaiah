@@ -43,7 +43,7 @@ Sports helps to develop physical skills, get exercise, make friends, have fun, l
 ### Pithy Quotes
 
 > Learn from yesterday, live for today, hope for tomorrow.
-    > by *Albert Einstein.*
+>> by *Albert Einstein.*
 
 > Be less curious about people and more curious about ideas.
-    > by *Marie Curie.*
+>> by *Marie Curie.*
