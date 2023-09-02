@@ -24,3 +24,16 @@ When compared to cramped city house, Grandma's house will be large and spacious.
     * Kesari
 
 [MyStats](MyStats.md)
+
+***
+
+### My Favourite Sport
+
+Sports helps to develop physical skills, get exercise, make friends, have fun, learn teamwork, learn to play fair, and improve self-esteem. 
+
+| Sport       | Reason                | hours |
+| :---------: | :-------------------: | :---: |
+| Cricket     | Team Skills           | 6     |
+| Basketball  | Cardiovascular Health | 4     |
+| Badminton   | Flexibility & Balance | 3     |
+| Chess       | Problem Solving       | 1     |
