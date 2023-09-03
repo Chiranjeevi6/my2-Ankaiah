@@ -52,11 +52,11 @@ Sports helps to develop physical skills, get exercise, make friends, have fun, l
 
 ### Code Fenching
 
-```
-
 > Having tough time with a very basic jquery slider...Not sliding through images properly
 
-[Stack_Overflow](https://stackoverflow.com/questions/11772909/having-tough-time-with-a-very-basic-jquery-slider-not-sliding-through-images-p)
+[Stack_Overflow](https://stackoverflow.com/questions/11772909 having-tough-time-with-a-very-basic-jquery-slider-not-sliding-through-images-p)
+
+```
 
  $("#slideshow > div:gt(0)").hide();
 
@@ -69,7 +69,8 @@ setInterval(function() {
   .appendTo('#slideshow');
 }, 3000);
 
+```
+
 [JQuery](https://css-tricks.com/snippets/jquery/simple-auto-playing-slideshow/)
 
 
-```
